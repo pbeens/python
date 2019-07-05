@@ -17,3 +17,9 @@ https://pynative.com/python-random-choice/
 https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f
 - Reference used to insert periods at specific locations:<br>
 https://stackoverflow.com/questions/5254445/add-string-in-a-certain-position-in-python
+- How to read filenames in a folder:<br>
+https://stackoverflow.com/questions/1994549/fast-way-to-read-filename-from-directory
+- How to replace characters in strings:<br>
+https://www.geeksforgeeks.org/python-string-replace/
+- How to rename multiple files:<br>
+https://www.geeksforgeeks.org/rename-multiple-files-using-python/
