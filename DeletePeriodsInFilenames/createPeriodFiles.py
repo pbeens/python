@@ -8,7 +8,7 @@ from pathlib import Path
 num_files = 10  # used when creating files
 
 # create files folder
-dir_name = './files'
+dir_name = 'files'
 if not os.path.exists(dir_name):
     os.makedirs(dir_name)
     print(f"Directory '{dir_name}' created")
