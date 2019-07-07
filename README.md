@@ -2,7 +2,8 @@
 
 This repository will be used to house miscellaneous Python projects I've worked on.
 
-### DeletePeriodsInFilenames
+## DeletePeriodsInFilenames
 
-The purpose of this project is to create a utility to delete any periods in all the filenames of any files in the designated folder.
-There is also a utility that can be used to create random files with periods embedded in the filenames, which was used for creating the aforementioned utility.
+This is a utility I created to delete any periods in the filenames in the designated folder.
+
+I also created a utility that can create random files with periods embedded in the filenames, which was used for testing the aforementioned utility.
